@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+scaladb - A Simple Scala ORM.
+Copyright 2011 Cherimoia,LLC. All Rights Reserved.
+------------------------------------------------------------------------------
+The following set of software modules/components are included
+( bundled as binaries/source code):
+
+- Apache Commons.  Various commons.* packages are used.
+  @see http://commons.apache.org
+  @see-license http://www.apache.org/licenses/LICENSE-2.0
+
+- H2 database engine - java database,
+  which is open source (Mozilla or EPL) software.
+  @see http://h2database.com
+  @see-license http://h2database.com/html/license.html
+
+- ScalaTest - unit testing, 
+  which is open source (Apache License) software.
+  @see http://scalatest.org/
+  @see-license http://www.apache.org/licenses/LICENSE-2.0
+

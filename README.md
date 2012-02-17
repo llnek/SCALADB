@@ -4,6 +4,7 @@ A simple Scala ORM.
 # Supported Platforms
 ## Scala
 * 2.9.1
+
 ## Database
 * Microsoft SQL Server
 * MySQL
